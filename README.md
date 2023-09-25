@@ -39,5 +39,5 @@ ___
 | Med-PaLM 2 | Fine-tuned | Enhanced version of Med-PaLM released on March 2023 by Google with improved performance | [:link:](https://www.youtube.com/watch?v=3Ud-BMOCkDI&ab_channel=Google) | [:link:](https://arxiv.org/pdf/2305.09617.pdf)  | [:link:](https://repo.com) | [:link:](https://cloud.google.com/blog/topics/healthcare-life-sciences/sharing-google-med-palm-2-medical-large-language-model) |
 | PharmacyGPT | In-context Learning | GPT-4 model coupled with in-context learning (dynamic prompting approach) involving domain-specific data | - | [:link:](https://arxiv.org/abs/2307.10432)  | - | - |
 
-
+<!-- Copy the following string to create a new entry! -->
 <!-- | Name of LLM | Model Type (e.g., Fine-tuned) | Brief info | [:link:](https://demo.com) | [:link:](https://paper.com)  | [:link:](https://repo.com) | [:link:](https://website.com) | | -->
