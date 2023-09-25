@@ -8,7 +8,7 @@
 # Context
 - Large language models (LLMs) have revolutionized the landscape of natural language processing, showing unparalleled prowess in a wide array of tasks, from simple text generation to complex problem-solving. 
 - As the potential of LLMs continues to unfold, there's an increasing demand to tailor these models for specific domains and industries, ensuring that their vast knowledge base is attuned to specialized requirements. 
-- This repo aims to create a database of bespoke LLMs optimized for different sectors, ranging from healthcare and legal to finance and entertainment. 
+- This repo aims to create a database of domain-specific LLMs optimized for different sectors, ranging from healthcare and legal to finance and entertainment. 
 - It seeks to bridge the gap between generic LLMs and niche applications, showcasing tools that truly understand and cater to the unique linguistic nuances and knowledge demands of different industries.
 <br><br>
 
