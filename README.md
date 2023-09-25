@@ -26,6 +26,7 @@ ___
 | Name | Type | Description | Demo | Paper | Repo | Site |
 | --- | --- | --- | --- | --- | --- | --- |
 | BloombergGPT | Pre-trained | 50-billion parameter LLM trained on a wide range of financial data (363 billion token dataset) | - | [:link:](https://arxiv.org/abs/2303.17564) | - | - |
+| FinChat | ? | Generative AI tool for investment research, helping to greatly reduce time requirements for data aggregation, visualization and summaries. | [:link:](https://www.youtube.com/watch?v=jPP-oYhQ3S0&ab_channel=BradenDennis) | -  | - | [:link:](https://finchat.io/) |
 | FinGPT | Fine-tuned | Series of LLMs fine-tuned on base models (e.g., Llama-2) with open finance data | - | [:link:](https://arxiv.org/abs/2306.06031)  | [:link:](https://github.com/AI4Finance-Foundation/FinGPT) | [:link:](https://website.com) |
 | FinMA | Fine-tuned | Financial LLM from fine-tuning LLaMa with finance-based instruction data with 136K data samples| [:link:](https://huggingface.co/ChanceFocus/finma-7b-nlp) | [:link:](https://arxiv.org/abs/2306.05443)  | [:link:](https://github.com/chancefocus/PIXIU) | - |
 
@@ -40,7 +41,7 @@ ___
 | PharmacyGPT | In-context Learning | GPT-4 model coupled with in-context learning (dynamic prompting approach) involving domain-specific data | - | [:link:](https://arxiv.org/abs/2307.10432)  | - | - |
 
 <!-- Copy the following string to create a new entry! -->
-<!-- | Name of LLM | Model Type (e.g., Fine-tuned) | Brief info | [:link:](https://demo.com) | [:link:](https://paper.com)  | [:link:](https://repo.com) | [:link:](https://website.com) | | -->
+<!-- | Name of LLM | Model Type (e.g., Fine-tuned) | Brief info | [:link:](https://demo.com) | [:link:](https://paper.com)  | [:link:](https://repo.com) | [:link:](https://website.com) | -->
 
 ___
 
