@@ -14,10 +14,17 @@ ___
 ___
 <a name="finance"></a>
 ## Finance
+| Name | Description | Demo | Paper | Repo | Website |
+| --- | --- | --- | --- | --- |
+| Name of LLM | Brief info | [:link:](https://google.com) | [:link:](https://github.com)  | [:link:](https://google.com) | [:link:](https://google.com) |
+
+___
+<a name="healthcare"></a>
+## Healthcare
 | Name | Description | Repo | Paper | Demo |
 | --- | --- | --- | --- | --- |
-| Name of LLM | Brief info | [:link:](https://google.com) | [:link:](https://github.com)  | [:link:](https://google.com) |
+| Med-PaLM | Brief info | [:link:](https://google.com) | [:link:](https://github.com)  | [:link:](https://google.com) | [:link:](https://google.com) |
+| PharmacyGPT | Brief info | [:link:](https://google.com) | [:link:](https://github.com)  | [:link:](https://google.com) | [:link:](https://google.com) |
 
 
-
-<!-- | Name of LLM | Brief info | [:link:](https://github.com) | [:link:](https://arvix.com)  | [:link:](https://demo.com) | -->
+<!-- | Name of LLM | Brief info | [:link:](https://demo.com) | [:link:](https://arvix.com)  | [:link:](https://github.com) | [:link:](https://website.com) | -->
