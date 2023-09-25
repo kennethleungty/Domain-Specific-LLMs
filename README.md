@@ -1,15 +1,16 @@
-# Domain-Specific-LLMs
+# Domain-Specific LLMs
 Comprehensive Compilation of Customized Large Language Models for Specific Domains and Industries
+
+<img src="./assets/landscape_midjourney.png" alt="Landscape" width="500"/>
 
 ___
 
 [![Contributions Welcome!](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](./CONTRIBUTING.md)
-<hr>
+___
 
-## Contents
+# Contents
 1. [Finance](#finance)
 2. [Healthcare](#healthcare)
-
 
 ___
 <a name="finance"></a>
