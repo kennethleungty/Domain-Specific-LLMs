@@ -22,6 +22,7 @@ We are open to contributions to the following industries:
 - Public Sector
 - Real Estate
 - Retail
+- Sports
 - Telecommunications
 - Transportation & Logistics
 - Travel & Tourism
