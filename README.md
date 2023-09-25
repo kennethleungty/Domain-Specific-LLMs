@@ -1,5 +1,5 @@
 # Domain-Specific-LLMs
-Customized Language Models for Specific Domains and Industries
+Comprehensive Compilation of Customized Large Language Models for Specific Domains and Industries
 
 ___
 
