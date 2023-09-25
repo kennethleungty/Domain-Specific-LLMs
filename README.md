@@ -1,5 +1,5 @@
 # Domain-Specific LLMs
-### Comprehensive Compilation of Customized Large Language Models for Specific Domains and Industries
+### Comprehensive Compilation of Customized LLMs for Specific Domains and Industries
 
 <img src="./assets/landscape_midjourney.png" alt="Landscape" width="400"/>  
 
