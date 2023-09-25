@@ -41,3 +41,9 @@ ___
 
 <!-- Copy the following string to create a new entry! -->
 <!-- | Name of LLM | Model Type (e.g., Fine-tuned) | Brief info | [:link:](https://demo.com) | [:link:](https://paper.com)  | [:link:](https://repo.com) | [:link:](https://website.com) | | -->
+
+___
+
+## To Do
+- [ ] Include examples from the range of other domains/industries listed in [Contributing](./CONTRIBUTING.md)
+- [ ] Include non-LLM GenAI examples (expand scope of repo)
