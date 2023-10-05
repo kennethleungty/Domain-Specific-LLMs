@@ -19,7 +19,8 @@ ___
 # Contents
 1. [Finance](#finance)
 2. [Healthcare](#healthcare)
-<!-- 3. [Telecommunications](#telco) -->
+3. [Information Technology](#it)
+<!-- 4. [Telecommunications](#telco) -->
 
 ___
 <a name="finance"></a>
@@ -41,6 +42,14 @@ ___
 | Med-PaLM 2 | Fine-tuned | Enhanced version of Med-PaLM released on March 2023 by Google with improved performance | [:link:](https://www.youtube.com/watch?v=3Ud-BMOCkDI&ab_channel=Google) | [:link:](https://arxiv.org/pdf/2305.09617.pdf)  | [:link:](https://repo.com) | [:link:](https://cloud.google.com/blog/topics/healthcare-life-sciences/sharing-google-med-palm-2-medical-large-language-model) |
 | PharmacyGPT | In-context Learning | GPT-4 model coupled with in-context learning (dynamic prompting approach) involving domain-specific data | - | [:link:](https://arxiv.org/abs/2307.10432)  | - | - |
 | RUSSELL-GPT | Fine-tuned | LLM developed by National University Health System in Singapore to enhance clinicians' productivity (e.g., medical Q&A, case note summarization) | - | - | - | [:link:](https://www.nuhsplus.edu.sg/article/ai-healthcare-in-nuhs-receives-boost-from-supercomputer) |
+
+
+___
+<a name="it"></a>
+## Information Technology (IT)
+| Name | Type | Description | Repo | Paper | Demo | Site |
+| --- | --- | --- | --- | --- | --- | --- |
+| OWL | Fine-tuned | A large language model for IT operations fine-tuned based on a custom Owl-Instruct dataset with a wide range of IT-related information | - | [:link:](https://arxiv.org/abs/2309.09298) | - | - |
 
 
 ___
