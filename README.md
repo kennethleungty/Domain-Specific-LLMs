@@ -17,10 +17,19 @@
 ___
 
 # Contents
-1. [Finance](#finance)
-2. [Healthcare](#healthcare)
-3. [Information Technology](#it)
+1. [Biology](#biology)
+2. [Finance](#finance)
+3. [Healthcare](#healthcare)
+4. [Information Technology](#it)
 <!-- 4. [Telecommunications](#telco) -->
+
+
+___
+<a name="biology"></a>
+## Biology
+| Name | Type | Description | Demo | Paper | Repo | Site |
+| --- | --- | --- | --- | --- | --- | --- |
+| ProtGPT2 | Pre-trained | LLM (with 738 million parameters) specifically for protein engineering and design by being trained on the protein space that generates de novo protein sequences following principles of natural ones. | - | - | - | [:link:](https://www.nature.com/articles/s41467-022-32007-7) |
 
 ___
 <a name="finance"></a>
