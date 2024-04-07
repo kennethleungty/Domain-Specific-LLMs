@@ -40,7 +40,7 @@ ___
 | FinChat | ? | Generative AI tool for investment research, helping to greatly reduce time requirements for data aggregation, visualization and summaries. | [:link:](https://www.youtube.com/watch?v=jPP-oYhQ3S0&ab_channel=BradenDennis) | -  | - | [:link:](https://finchat.io/) |
 | FinGPT | Fine-tuned | Series of LLMs fine-tuned on base models (e.g., Llama-2) with open finance data | - | [:link:](https://arxiv.org/abs/2306.06031)  | [:link:](https://github.com/AI4Finance-Foundation/FinGPT) | [:link:](https://website.com) |
 | FinMA | Fine-tuned | Financial LLM from fine-tuning LLaMa with finance-based instruction data with 136K data samples| [:link:](https://huggingface.co/ChanceFocus/finma-7b-nlp) | [:link:](https://arxiv.org/abs/2306.05443)  | [:link:](https://github.com/chancefocus/PIXIU) | - |
-| Ask FT | ? | Financial LLM from fine-tuning LLaMa with finance-based instruction data with 136K data samples| [:link:](https://www.youtube.com/watch?v=T08mJT190bM) | [:link:](https://aboutus.ft.com/press_release/financial-times-launches-first-generative-ai-tool) | - | - |
+| Ask FT | ? | LLM tool that allows users to ask any question and receive a response using Financial Times (FT) content published over the last two decades. | [:link:](https://www.youtube.com/watch?v=T08mJT190bM) | [:link:](https://aboutus.ft.com/press_release/financial-times-launches-first-generative-ai-tool) | - | - |
 
 ___
 <a name="healthcare"></a>
