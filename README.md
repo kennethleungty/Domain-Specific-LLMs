@@ -62,11 +62,11 @@ ___
 
 
 ___
-<!-- <a name="telco"></a>
+<a name="telco"></a>
 ## Telecommunications
 | Name | Type | Description | Repo | Paper | Demo | Site |
 | --- | --- | --- | --- | --- | --- | --- |
-| China Telecom : But does not seem like telco specific, as it is launched by its cloud unit instead | ?Pre-trained | Brief info | [:link:](https://demo.com) | [:link:](https://paper.com)  | [:link:](https://repo.com) | [:link:](https://www.scmp.com/tech/big-tech/article/3218692/state-run-china-telecom-unveils-own-chatgpt-service-joining-generative-ai-competition-baidu-and) | -->
+| TelecomGPT: A Framework to Build Telecom-Specfic Large Language Models | Fine-tuned | Telecom-specific LLM which can be used for multiple downstream tasks in telecom domain | - | [:link:]([https://paper.com](https://arxiv.org/abs/2407.09424))  | - | - | 
 
 
 <!-- Copy the following string to create a new entry! -->
